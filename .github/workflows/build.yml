@@ -5,5 +5,5 @@ jobs:
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@v0.2.1
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    shield: dactyl_cc_left
     snippet: zmk-usb-logging
