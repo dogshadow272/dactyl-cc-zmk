@@ -11,8 +11,8 @@
 #   - board: nice_nano_v2
 #     shield: reviung41
 #
----
-
+config:
+  ZMK_STUDIO: y
 
 include:
   - board: nice_nano
